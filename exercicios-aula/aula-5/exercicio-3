@@ -1,0 +1,12 @@
+VERDADEIRO OU FALSO
+
+a) 7 <= 8 | 7 é menor que 8 OU 7 é igual a 8
+b) 93 == 94 (FALSO) | 93 é igual 94
+c) 127 < 203 (VERDADEIRO) | 127 é menor que 203
+d) 56 != 32 (VERDADEIRO) | 56 é diferente de 32
+e) 56 != 56 (FALSO) | 56 é diferente de 56
+f) 10 <= 10 (VERDADEIRO) | 10 é menor OU igual a 10
+g) 100 > 1000 (FALSO)| 100 é maior que 1000
+h) 235 <= 234 (FALSO) | 235 é menor OU igual a 234
+i) 22 == 22 (VERDADEIRO)| 22 é igual a 22
+g) 34 <= 35 (VERDADEIRO) | 34 é menor OU igual a 35

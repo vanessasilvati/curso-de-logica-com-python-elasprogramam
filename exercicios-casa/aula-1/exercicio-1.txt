@@ -1,0 +1,20 @@
+# Exercício 1 
+# Muito bom chegar em casa, depois de um dia cansativo. Descreva, em forma de algoritmo,  as etapas para abrir a porta quando você chega.  
+
+1. Estacionar o carro na garagem
+2. desligar o carro
+3. descer do carro
+4. trancar as portas do carro
+5. Caminhar até a porta de entrada do bloco
+6. Abrir a porta do bloco
+7. Ir até a porta de casa
+8. Abrir a mochila
+9. Pegar a chave no bolso da mochila
+10. Fechar o bolso da mochila
+11. Destrancar a porta de casa
+12. Abrir a porta
+13. Entrar em casa
+14. Retirar a chave da fechadura
+15. Fechar a porta de casa
+16. Trancar a porta de casa
+17. Guardar a chave de casa no chaveiro

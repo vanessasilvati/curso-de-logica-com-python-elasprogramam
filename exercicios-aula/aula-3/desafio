@@ -1,0 +1,8 @@
+## Também podemos pedir para o usuário incluir informações numéricas e fazer cálculos com essas informações:
+
+numero = int(input('Informe um número, por favor: '))
+numdobro = numero*2
+numtriplo = numero*3
+
+print('O dobro de alunos do número informado é:',numdobro,'e o triplo do número informado é:',numtriplo)
+

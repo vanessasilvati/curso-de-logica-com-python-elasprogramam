@@ -1,0 +1,16 @@
+# Exercício 6
+# Informe se os nomes de variáveis são válidos. Mas, por favor, faça uma crítica construtiva, se o
+# nome não for válido, coloque uma sugestão de nome válido para cada item:
+
+# a) nomedoviajante               = válido
+# b) numerodoRG                   = válido
+# c) voo de ida                   = inválido pois possui espaço entre as palavras / Sugestão: voo_de_ida | vooDeIda |voodeida
+# d) voo-de-volta                 = inválido pois possui hífen na separação / Sugestão: voo_de_volta | voodevolta | vooDeVolta 
+# e) _empresa                     = válido
+# f) destino1                     = válido
+# g) destino2                     = válido
+# h) Telefone                     = inválido pois inicia com letra maiúscula / Sugestão: telefone | numerodetelefone
+# i) Telefone residencial         = inválido pois inicia com letra maiúscula e possui espaço / Sugestão: telefoneResidencial | telefoneresidencial
+# j) 2telefoneparaemergencias     = inválido pois inicia com número | Sugestão: doistelefonesdemergencia
+# k) restrição.alimentar          = inválido pois não é permitido caracteres especiais, exceto "_" | Sugestão: restriçãoalimentar | restricaoalimentar | restricao_alimentar
+
